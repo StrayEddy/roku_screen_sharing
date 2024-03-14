@@ -1,0 +1,5 @@
+<component name="VideoExample" extends="Scene">
+  <children>
+    <Video id="exampleVideo"/>
+  </children>
+</component>
